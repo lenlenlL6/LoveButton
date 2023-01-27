@@ -39,3 +39,4 @@ function love.draw()
   button1:draw()
 end
 ```
+<sup>After running the program, this is the result: </sup>
