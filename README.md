@@ -111,4 +111,7 @@ end
 
 ### Some note
 
-<sup></sup>
+<sup>If the length of the button is not enough to hold the text, this will happen: </sup>
+![](Untitled3.png)
+
+<sup>So be careful.</sup>
