@@ -106,3 +106,9 @@ function love.mousepressed(x, y, button, istouch, presses)
   button1:checkClick(x, y)
 end
 ```
+<sup>Here is the result: </sup>
+![](Untitled2.png)
+
+### Some note
+
+<sup></sup>
