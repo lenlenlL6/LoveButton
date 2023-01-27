@@ -12,7 +12,7 @@ local Button = require("libaryDirectory/Button")
 
 function love.load()
   SCREEN_WIDTH, SCREEN_HEIGHT = love.graphics.getWidth(), love.graphics.getHeight()
-	font = love.graphics.newFont("fonts/pricedown bl.otf", 20)
-	button1 = Button:new(SCREEN_WIDTH / 2 - (150 / 2), SCREEN_HEIGHT / 2 - (50 / 2), 150, 50, love.graphics.newText(font, "Play Now"), {128, 128, 128}, {135, 206, 250})
+  font = love.graphics.newFont("fonts/pricedown bl.otf", 20)
+  button1 = Button:new(SCREEN_WIDTH / 2 - (150 / 2), SCREEN_HEIGHT / 2 - (50 / 2), 150, 50, love.graphics.newText(font, "Play Now"), {128, 128, 128}, {135, 206, 250})
 end
 ```
