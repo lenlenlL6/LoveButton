@@ -15,4 +15,6 @@ function love.load()
   font = love.graphics.newFont("fonts/pricedown bl.otf", 20)
   button1 = Button:new(SCREEN_WIDTH / 2 - (150 / 2), SCREEN_HEIGHT / 2 - (50 / 2), 150, 50, love.graphics.newText(font, "Play Now"), {128, 128, 128}, {135, 206, 250})
 end
+
+-- The 1st parameter is the x position of the button.
 ```
