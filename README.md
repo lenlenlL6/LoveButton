@@ -5,3 +5,8 @@ A library to help you create interactive buttons in Love2d.
 ```lua
 local Button = require("libaryDirectory/Button")
 ```
+### Create a button
+<sup>To create a button, we use the following syntax:</sup>
+```lua
+local Button = require("libaryDirectory/Button")
+```
