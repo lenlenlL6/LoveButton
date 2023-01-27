@@ -24,6 +24,7 @@ end
 -- The 6th parameter is the color of the button.
 -- The 7th parameter is the color of the title.
 ```
+### Draw button
 <sup>After creating the button, you don't see it on the screen right? That's because you haven't drawn it yet, draw it at the love.draw() function like this: </sup>
 ```lua
 local Button = require("libaryDirectory/Button")
