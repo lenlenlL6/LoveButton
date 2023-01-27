@@ -40,3 +40,4 @@ function love.draw()
 end
 ```
 <sup>After running the program, this is the result: </sup>
+![](Untitled.png)
